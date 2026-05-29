@@ -3,7 +3,7 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 28.05.2026 19:08:18
+// Create Date: 28.05.2026 22:05:10
 // Design Name: 
 // Module Name: OR_Gate
 // Project Name: 
