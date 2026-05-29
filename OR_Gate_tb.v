@@ -5,7 +5,7 @@
 // 
 // Create Date: 28.05.2026 22:05:10
 // Design Name: 
-// Module Name: OR_Gate
+// Module Name: OR_Gate_tb
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
