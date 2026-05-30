@@ -19,3 +19,7 @@ Truth Table
 Simulation Result
 
 <img width="1567" height="705" alt="image" src="https://github.com/user-attachments/assets/ed09a5ba-6b4b-4640-8834-be41bc54d4c5" />
+
+ TCL Console
+
+ <img width="699" height="224" alt="image" src="https://github.com/user-attachments/assets/322f578e-d42e-4e29-a00f-15b09a0276f2" />
