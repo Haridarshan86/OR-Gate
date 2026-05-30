@@ -18,3 +18,4 @@ Truth Table
 
 Simulation Result
 
+<img width="1567" height="705" alt="image" src="https://github.com/user-attachments/assets/ed09a5ba-6b4b-4640-8834-be41bc54d4c5" />
